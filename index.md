@@ -1,3 +1,1 @@
-#Welcome to LRI tonight!!!
-
-#Changes!
+#Welcome to LRI!!!
